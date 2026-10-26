@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Teix Garcia</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on [CoupleCart](https://github.com/Teixg/CoupleCart)
+- 🔭 Currently looking for my next project
 
 - 📫 How to reach me **teixgarcia@gmail.com**
 
